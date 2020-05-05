@@ -1,0 +1,10 @@
+C:\Users\anyap\source\repos\TVavtomat\TVavtomat\bin\Debug\TVavtomat.exe.config
+C:\Users\anyap\source\repos\TVavtomat\TVavtomat\bin\Debug\TVavtomat.exe
+C:\Users\anyap\source\repos\TVavtomat\TVavtomat\bin\Debug\TVavtomat.pdb
+C:\Users\anyap\source\repos\TVavtomat\TVavtomat\obj\Debug\TVavtomat.csprojAssemblyReference.cache
+C:\Users\anyap\source\repos\TVavtomat\TVavtomat\obj\Debug\TVavtomat.Properties.Resources.resources
+C:\Users\anyap\source\repos\TVavtomat\TVavtomat\obj\Debug\TVavtomat.csproj.GenerateResource.cache
+C:\Users\anyap\source\repos\TVavtomat\TVavtomat\obj\Debug\TVavtomat.csproj.CoreCompileInputs.cache
+C:\Users\anyap\source\repos\TVavtomat\TVavtomat\obj\Debug\TVavtomat.exe
+C:\Users\anyap\source\repos\TVavtomat\TVavtomat\obj\Debug\TVavtomat.pdb
+C:\Users\anyap\source\repos\TVavtomat\TVavtomat\obj\Debug\TVavtomat.MainForm.resources
